@@ -7,6 +7,3 @@
   
   <a href = "mailto:rafael.cebrian@sptech.school"><img src="https://img.shields.io/badge/microsoft%20outlook-%230078D4.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" /></a>
 </div> <br />
-<center> 
-<img src = ""/>
-</center>
