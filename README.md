@@ -2,7 +2,7 @@
 
 # Hi, I'm Rafael Henrique 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=700&lines=Software+Engineer;Backend+Developer;Go+%7C+AWS+%7C+Kubernetes;Cloud+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=700&lines=Software+Engineer;Backend+Developer;Go+%7C+AWS+%7C+Kubernetes" />
 
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:rafahenriqueh31@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
