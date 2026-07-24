@@ -30,7 +30,7 @@ func main() {
         Role:      "Software Engineer",
         Location:  "São Paulo, Brazil 🇧🇷",
         Education: "B.Sc. in Information Systems",
-        Focus:     []string{"Backend", "Cloud", "Microservices", "Distributed Systems"}
+        Focus:     []string{"Golang", "Backend", "Cloud", "Microservices", "Distributed Systems"}
     }
     _ = me
 }
@@ -84,13 +84,6 @@ func main() {
 
 ## Let's Connect
 
-<div align="center">
-
-<a href="mailto:rafahenriqueh31@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="[https://www.linkedin.com/in/YOUR-LINKEDIN/](https://www.linkedin.com/in/rafael-henrique-34990428b/)">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<div align="center"> <a href="mailto:rafahenriqueh31@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/rafael-henrique-34990428b/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/RafaelH31"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
 
 </div>
